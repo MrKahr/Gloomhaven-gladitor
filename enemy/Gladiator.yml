@@ -1,0 +1,57 @@
+Parser: Enemy
+ID: GladiatorID
+LocKey: $Gladiator$
+Model: Bandit Guard
+MonsterType: Monster
+StandeeLimit: 16
+PredominantlyMelee: True
+AbilityCards: [468793211,468793212,468793213,468793214,468793215,468793216,468793217,468793218]
+# Base Stats
+Level0:
+    Health: 5
+    Move: 2
+    Attack: 2
+    Range: 1
+    Target: 1
+Level1:
+    Health: 6
+    Move: 3
+    Attack: 2
+    Range: 1
+    Target: 1
+Level2:
+    Health: 6
+    Move: 3
+    Attack: 3
+    Range: 1
+    Target: 1
+Level3:
+    Health: 9
+    Move: 3
+    Attack: 3
+    Range: 1
+    Target: 1
+Level4:
+    Health: 10
+    Move: 4
+    Attack: 3
+    Range: 1
+    Target: 1
+Level5:
+    Health: 11
+    Move: 4
+    Attack: 4
+    Range: 1
+    Target: 1
+Level6:
+    Health: 14
+    Move: 4
+    Attack: 4
+    Range: 1
+    Target: 1
+Level7:
+    Health: 16
+    Move: 5
+    Attack: 4
+    Range: 1
+    Target: 1		
